@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "user": "U7QQX51QS",
+        "text": "円香 佐々木さんが Skype であなたとお話ししたがっています。通話やチャットは無料です!\n\n<https:\/\/join.skype.com\/invite\/StB8PSSoh79i>",
+        "attachments": [
+            {
+                "title": "Join conversation",
+                "title_link": "https:\/\/join.skype.com\/invite\/StB8PSSoh79i",
+                "fallback": "Join conversation",
+                "image_url": "https:\/\/join.secure.skypeassets.com\/static\/13.46\/images\/icons\/opengraph_image.png",
+                "from_url": "https:\/\/join.skype.com\/invite\/StB8PSSoh79i",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 28276,
+                "service_name": "join.skype.com",
+                "id": 1
+            }
+        ],
+        "ts": "1513925647.000011"
+    },
+    {
+        "type": "message",
+        "user": "U7RTD502K",
+        "text": "<https:\/\/join.skype.com\/HuKzuH4omRKa>",
+        "attachments": [
+            {
+                "title": "Join conversation",
+                "title_link": "https:\/\/join.skype.com\/HuKzuH4omRKa",
+                "fallback": "Join conversation",
+                "image_url": "https:\/\/join.secure.skypeassets.com\/static\/13.46\/images\/icons\/opengraph_image.png",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "https:\/\/join.skype.com\/HuKzuH4omRKa",
+                "image_bytes": 28276,
+                "service_name": "join.skype.com",
+                "id": 1
+            }
+        ],
+        "ts": "1513925825.000160"
+    }
+]

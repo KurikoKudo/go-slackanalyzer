@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U7RTD502K> uploaded a file: <https:\/\/sysprogroup2.slack.com\/files\/U7RTD502K\/F7ZUYTLLX\/______________________________2___.png|シスプロクラス図第2版.png> and commented: ユーザ名追加",
+        "file": {
+            "id": "F7ZUYTLLX",
+            "created": 1510459534,
+            "timestamp": 1510459534,
+            "name": "シスプロクラス図第2版.png",
+            "title": "シスプロクラス図第2版.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U7RTD502K",
+            "editable": false,
+            "size": 50897,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T7RMFQPGW-F7ZUYTLLX\/______________________________2___.png?t=xoxe-263729839574-350180570160-350877415858-3c8147387be955eb724d375ff6fc3014",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T7RMFQPGW-F7ZUYTLLX\/download\/______________________________2___.png?t=xoxe-263729839574-350180570160-350877415858-3c8147387be955eb724d375ff6fc3014",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T7RMFQPGW-F7ZUYTLLX-3d952a9d7c\/______________________________2____64.png?t=xoxe-263729839574-350180570160-350877415858-3c8147387be955eb724d375ff6fc3014",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T7RMFQPGW-F7ZUYTLLX-3d952a9d7c\/______________________________2____80.png?t=xoxe-263729839574-350180570160-350877415858-3c8147387be955eb724d375ff6fc3014",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T7RMFQPGW-F7ZUYTLLX-3d952a9d7c\/______________________________2____360.png?t=xoxe-263729839574-350180570160-350877415858-3c8147387be955eb724d375ff6fc3014",
+            "thumb_360_w": 360,
+            "thumb_360_h": 328,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T7RMFQPGW-F7ZUYTLLX-3d952a9d7c\/______________________________2____480.png?t=xoxe-263729839574-350180570160-350877415858-3c8147387be955eb724d375ff6fc3014",
+            "thumb_480_w": 480,
+            "thumb_480_h": 438,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T7RMFQPGW-F7ZUYTLLX-3d952a9d7c\/______________________________2____160.png?t=xoxe-263729839574-350180570160-350877415858-3c8147387be955eb724d375ff6fc3014",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T7RMFQPGW-F7ZUYTLLX-3d952a9d7c\/______________________________2____720.png?t=xoxe-263729839574-350180570160-350877415858-3c8147387be955eb724d375ff6fc3014",
+            "thumb_720_w": 720,
+            "thumb_720_h": 656,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T7RMFQPGW-F7ZUYTLLX-3d952a9d7c\/______________________________2____800.png?t=xoxe-263729839574-350180570160-350877415858-3c8147387be955eb724d375ff6fc3014",
+            "thumb_800_w": 800,
+            "thumb_800_h": 729,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T7RMFQPGW-F7ZUYTLLX-3d952a9d7c\/______________________________2____960.png?t=xoxe-263729839574-350180570160-350877415858-3c8147387be955eb724d375ff6fc3014",
+            "thumb_960_w": 960,
+            "thumb_960_h": 875,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T7RMFQPGW-F7ZUYTLLX-3d952a9d7c\/______________________________2____1024.png?t=xoxe-263729839574-350180570160-350877415858-3c8147387be955eb724d375ff6fc3014",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 934,
+            "image_exif_rotation": 1,
+            "original_w": 1042,
+            "original_h": 950,
+            "permalink": "https:\/\/sysprogroup2.slack.com\/files\/U7RTD502K\/F7ZUYTLLX\/______________________________2___.png",
+            "permalink_public": "https:\/\/slack-files.com\/T7RMFQPGW-F7ZUYTLLX-949d2c6861",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc7YTYK6CU",
+                "created": 1510459534,
+                "timestamp": 1510459534,
+                "user": "U7RTD502K",
+                "is_intro": true,
+                "comment": "ユーザ名追加"
+            },
+            "reactions": [
+                {
+                    "name": "video_camera",
+                    "users": [
+                        "U7QNP85R9"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        "user": "U7RTD502K",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "e155407w",
+        "bot_id": null,
+        "ts": "1510459536.000052"
+    }
+]

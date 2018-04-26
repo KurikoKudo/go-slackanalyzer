@@ -1,0 +1,51 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U7QSFDQPN> uploaded a file: <https:\/\/sysprogroup2.slack.com\/files\/U7QSFDQPN\/F887H7AR2\/_______________________________________.txt|仕様書インスペクション返答>",
+        "file": {
+            "id": "F887H7AR2",
+            "created": 1512112391,
+            "timestamp": 1512112391,
+            "name": "_______________________________________.txt",
+            "title": "仕様書インスペクション返答",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U7QSFDQPN",
+            "editable": true,
+            "size": 1093,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T7RMFQPGW-F887H7AR2\/_______________________________________.txt?t=xoxe-263729839574-350180570160-350877415858-3c8147387be955eb724d375ff6fc3014",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T7RMFQPGW-F887H7AR2\/download\/_______________________________________.txt?t=xoxe-263729839574-350180570160-350877415858-3c8147387be955eb724d375ff6fc3014",
+            "permalink": "https:\/\/sysprogroup2.slack.com\/files\/U7QSFDQPN\/F887H7AR2\/_______________________________________.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T7RMFQPGW-F887H7AR2-534f8f0d40",
+            "edit_link": "https:\/\/sysprogroup2.slack.com\/files\/U7QSFDQPN\/F887H7AR2\/_______________________________________.txt\/edit",
+            "preview": "インスペクションありがとうございます。\r\n\r\n指摘された点についてですが、\r\n☆検索を行う際に、ユーザーIDに関しては、\r\n・自分の検索したいユーザーのみを検索したい\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>インスペクションありがとうございます。<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>指摘された点についてですが、<\/pre><\/div>\n<div><pre>☆検索を行う際に、ユーザーIDに関しては、<\/pre><\/div>\n<div><pre>・自分の検索したいユーザーのみを検索したい<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 12,
+            "lines_more": 7,
+            "preview_is_truncated": false,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U7QSFDQPN",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "e155403n",
+        "bot_id": null,
+        "edited": {
+            "user": "U7QSFDQPN",
+            "ts": "1512112536.000000"
+        },
+        "ts": "1512112391.000199"
+    }
+]

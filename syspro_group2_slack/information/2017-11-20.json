@@ -1,0 +1,47 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U7QNP85R9> uploaded a file: <https:\/\/sysprogroup2.slack.com\/files\/U7QNP85R9\/F835N0Q9K\/___7____________.rtf|第7回議事録.rtf>",
+        "file": {
+            "id": "F835N0Q9K",
+            "created": 1511185096,
+            "timestamp": 1511185096,
+            "name": "第7回議事録.rtf",
+            "title": "第7回議事録.rtf",
+            "mimetype": "text\/rtf",
+            "filetype": "rtf",
+            "pretty_type": "Rich Text File",
+            "user": "U7QNP85R9",
+            "editable": false,
+            "size": 1304,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T7RMFQPGW-F835N0Q9K\/___7____________.rtf?t=xoxe-263729839574-350180570160-350877415858-3c8147387be955eb724d375ff6fc3014",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T7RMFQPGW-F835N0Q9K\/download\/___7____________.rtf?t=xoxe-263729839574-350180570160-350877415858-3c8147387be955eb724d375ff6fc3014",
+            "permalink": "https:\/\/sysprogroup2.slack.com\/files\/U7QNP85R9\/F835N0Q9K\/___7____________.rtf",
+            "permalink_public": "https:\/\/slack-files.com\/T7RMFQPGW-F835N0Q9K-c3afa37865",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U7QNP85R9",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "e155411m",
+        "bot_id": null,
+        "ts": "1511185097.000193"
+    },
+    {
+        "type": "message",
+        "user": "U7QNP85R9",
+        "text": "第7回議事録　書記：田中\n11月20日（月）18：00～20：00\n参加者：工藤・佐々木・田中・泉澤（早退）\n\nインスペクションを参考に仕様書の見直し\n画面構想（利用者、店舗）\n\n＊次回について\n　次回会議：11月23日（木）14：30",
+        "ts": "1511185151.000032"
+    }
+]

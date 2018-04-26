@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U7QQX51QS> uploaded a file: <https:\/\/sysprogroup2.slack.com\/files\/U7QQX51QS\/F8BKKMW58\/____________________________________.pptx|シスプロ進捗報告佐々木.pptx>",
+        "file": {
+            "id": "F8BKKMW58",
+            "created": 1512716023,
+            "timestamp": 1512716023,
+            "name": "シスプロ進捗報告佐々木.pptx",
+            "title": "シスプロ進捗報告佐々木.pptx",
+            "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "filetype": "pptx",
+            "pretty_type": "PowerPoint Presentation",
+            "user": "U7QQX51QS",
+            "editable": false,
+            "size": 380960,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T7RMFQPGW-F8BKKMW58\/____________________________________.pptx?t=xoxe-263729839574-350180570160-350877415858-3c8147387be955eb724d375ff6fc3014",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T7RMFQPGW-F8BKKMW58\/download\/____________________________________.pptx?t=xoxe-263729839574-350180570160-350877415858-3c8147387be955eb724d375ff6fc3014",
+            "permalink": "https:\/\/sysprogroup2.slack.com\/files\/U7QQX51QS\/F8BKKMW58\/____________________________________.pptx",
+            "permalink_public": "https:\/\/slack-files.com\/T7RMFQPGW-F8BKKMW58-5148b0a837",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U7QQX51QS",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "e155408n",
+        "bot_id": null,
+        "ts": "1512716024.000044"
+    }
+]

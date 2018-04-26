@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U7QSFDQPN",
+        "text": "<@U7QSFDQPN> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1512987777.000224"
+    },
+    {
+        "user": "U7QSFDQPN",
+        "purpose": "github",
+        "text": "<@U7QSFDQPN> set the channel purpose: github",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1512987778.000091"
+    },
+    {
+        "user": "U7QQX51QS",
+        "inviter": "U7QSFDQPN",
+        "text": "<@U7QQX51QS> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1512987778.000302"
+    },
+    {
+        "user": "U7RTD502K",
+        "inviter": "U7QSFDQPN",
+        "text": "<@U7RTD502K> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1512987778.000332"
+    },
+    {
+        "user": "U7QNP85R9",
+        "inviter": "U7QSFDQPN",
+        "text": "<@U7QNP85R9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1512987778.000349"
+    },
+    {
+        "text": "added an integration to this channel: <https:\/\/sysprogroup2.slack.com\/services\/B8CKM736W|github>",
+        "bot_id": "B8CKM736W",
+        "bot_link": "<https:\/\/sysprogroup2.slack.com\/services\/B8CKM736W|github>",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "U7QSFDQPN",
+        "ts": "1512987787.000323"
+    }
+]

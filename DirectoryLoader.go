@@ -5,13 +5,15 @@ import (
 	"os"
 )
 
-//DirectoryLoader is load directory function
+var messageList []Message
+
+//DirectoryLoader is loading directory function
 func DirectoryLoader (dirPath string) error{
 
 	err := filepath.Walk(dirPath, func (path string, info os.FileInfo, err error) error {
 
 		if !info.IsDir(){
-			fileloder(path)
+			fileloader(path)
 		}
 
 
@@ -21,6 +23,14 @@ func DirectoryLoader (dirPath string) error{
 	return err
 }
 
-func fileloder(path string){
+func fileloader(path string){
+
+	//pathのjsonファイルをopenする
+
+	//読み込みにはjsonのパッケージ使えそう
+
+	//Messageに値をセットする
+
+	//appendする
 	
 }

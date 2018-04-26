@@ -2,8 +2,8 @@ package slackanalyzer
 
 import "time"
 
-// Massage is a slack massage
-type Massage struct {
+// Message is a slack message
+type Message struct {
 	Sender string
 	SendTime time.Time
 	Comment string
